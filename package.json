@@ -9,7 +9,7 @@
     "@mdx-js/mdx": "^0.15.3",
     "@mdx-js/tag": "^0.15.0",
     "bulma": "^0.7.0",
-    "gatsby": "^2.0.0",
+    "gatsby": "^2.32.13",
     "gatsby-mdx": "^0.1.4",
     "gatsby-plugin-netlify": "^2.0.0",
     "gatsby-plugin-netlify-cms": "^3.0.0",
